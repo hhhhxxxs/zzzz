@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxdefc7253b9475a34",
+# 公众号appSecret
+"app_secret": "0065c72c6c4cfd843c245e89d921ca09",
+# 模板消息id
+"template_id": "IfUnKjbU_-mjRMBC73p8bOrqdREGPVKdjfKT9gszHh4",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wxid_7vboo8z13i5d22"]
+"user": ["ovNLp5_uzkwuKgqGvIlHySQUTQas"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "5abb957984db402ab5d151dff590f33f",
+# 天行数据apikey
+"tian_api": "df6b7df82fbf51c261b9bb812cc80ef8",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "郑州",
+# 生日
+"birthday1": {"name": "山野分享屋", "birthday": "2003-08-03"},
+# 在一起的日子，格式同上
+"love_date": "2022-06-01",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "厚爱无需多言，深情不及久伴",
+# 金句英文
+"note_en": "I Love You"
+}
